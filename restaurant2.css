@@ -1,0 +1,34 @@
+/*Background Image and Text*/
+
+body {
+  background-image: url(sky.jpg);
+}
+
+.opening {
+  font-size: 20px;
+  font-family: impact, serif;
+  background-color: rgba(71, 92, 95, 0.849);
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: aliceblue;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#est {
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+}
+
+.footer {
+  margin-top: -9px;
+  padding: 27px;
+  text-align: center;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgba(71, 92, 95, 0.849);
+}
